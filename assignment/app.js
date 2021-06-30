@@ -7,3 +7,5 @@ function min(a, b) {
         
     }
 console.log(min (2,5))
+
+module.exports (min)
